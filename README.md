@@ -35,4 +35,4 @@ Mọi đóng góp nhằm cải tiến logic gỡ bỏ, thêm tính năng downloa
 
 ## 📜 Giấy Phép (License)
 
-Dự án này được cấp phép theo Giấy phép [MIT/Apache/GPL, v.v.]. Xem file `LICENSE` để biết thêm chi tiết.
+Dự án này được cấp phép theo Giấy phép [[MIT/Apache/GPL, v.v.]](https://github.com/thanhitma9x/BKAV-Pro-Uninstaller-Tool/blob/master/LICENSE). Xem file `LICENSE` để biết thêm chi tiết.
